@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/computer-graphics-lab-1/static/css/main.28012937.css",
+    "main.js": "/computer-graphics-lab-1/static/js/main.fbf92ef0.js",
+    "static/media/imgonline-com-ua-Resize-Yq0buosdpKBRp5tv.jpg": "/computer-graphics-lab-1/static/media/imgonline-com-ua-Resize-Yq0buosdpKBRp5tv.e3b773085d41ff2ad843.jpg",
+    "index.html": "/computer-graphics-lab-1/index.html",
+    "main.28012937.css.map": "/computer-graphics-lab-1/static/css/main.28012937.css.map",
+    "main.fbf92ef0.js.map": "/computer-graphics-lab-1/static/js/main.fbf92ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28012937.css",
+    "static/js/main.fbf92ef0.js"
+  ]
+}
